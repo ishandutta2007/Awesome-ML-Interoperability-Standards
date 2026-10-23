@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-ML-Interoperability-Standards/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-ML-Interoperability-Standards?style=flat-square&color=yellow" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-ML-Interoperability-Standards/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-ML-Interoperability-Standards?style=flat-square&color=yellow" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-ML-Interoperability-Standards/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-ML-Interoperability-Standards?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-ML-Interoperability-Standards/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-ML-Interoperability-Standards/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -65,7 +65,7 @@ The following hosted solutions provide automated model compilation, hardware ben
 
 ## 💻 Open-Source Projects & Frameworks
 
-*Ranked strictly in descending order by GitHub community star counts.*
+*Ranked strictly in descending order by GitHub community Stars_Counts.*
 
 ### 1. [llama.cpp (GGUF Format)](https://github.com/ggml-org/llama.cpp) <a href="https://github.com/ggml-org/llama.cpp/stargazers"><img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social&color=white" alt="llama.cpp stars"/></a>
 - **Description**: The definitive C/C++ cross-platform inference engine for large language models, creator of the ubiquitous **GGUF (GPT-Generated Unified Format)**. GGUF is the undisputed open standard for distributing quantized LLM weights across macOS Metal, CUDA, ROCm, Vulkan, SYCL, and plain CPUs without external Python runtime dependencies.
@@ -184,7 +184,7 @@ We welcome contributions from engineers, researchers, and open-source maintainer
 2. 🌿 **Create a feature branch** (`git checkout -b feature/add-interop-tool`).
 3. 📝 **Add your tool** following the existing format:
    - For SaaS: Include specific starting tier prices, specific free tier limits, and company scale valuation.
-   - For Open-Source: Include official shields.io star badge linking to the `/stargazers` page, description, interoperability role, and license.
+   - For Open-Source: Include official shields.io Stars_Badge linking to the `/stargazers` page, description, interoperability role, and license.
 4. 🧪 **Verify all links and markdown formatting**.
 5. 🚀 **Submit a Pull Request** with a descriptive summary of your additions.
 
